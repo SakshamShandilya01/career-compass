@@ -2,7 +2,7 @@
 
 A small web tool that gives Indian CSE students a rough, honest placement probability estimate based on college tier, CGPA, LeetCode count, project count, and skills — instead of vague generic advice.
 
-**Live demo:** _(add your link here after publishing)_
+**Live demo:** https://sakshamshandilya01.github.io/career-compass/
 
 ## Screenshots
 

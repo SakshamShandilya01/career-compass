@@ -32,3 +32,6 @@ A small web tool that gives Indian CSE students a rough, honest placement probab
 
 ## Why I built this
 I'm a first-year B.Tech student learning HTML, CSS, and JS, and wanted a practice project that was actually useful instead of a to-do list app or any other app which gives the same basic feel rather than solving a problem then i thought and made this. Feedback very welcome, especially on the scoring logic.
+
+## Feedback
+Open an issue or PR if you spot a bug in the scoring logic or have ideas for the Week 3/4 personalization — contributions welcome.
